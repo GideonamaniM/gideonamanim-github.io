@@ -1,2 +1,2 @@
-# gideonamanim-github.io
+# gideonamanim.github.io
 Personal Website
